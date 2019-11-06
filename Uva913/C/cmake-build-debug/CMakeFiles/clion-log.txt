@@ -1,4 +1,4 @@
-C:\software\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" D:\UVA\Uva913\C
+C:\software\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\github\uva\Uva913\C
 -- The C compiler identification is GNU 4.9.2
 -- The CXX compiler identification is GNU 4.9.2
 -- Check for working C compiler: C:/software/MinGW64/bin/gcc.exe
@@ -15,4 +15,4 @@ C:\software\CLion\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeB
 -- Detecting CXX compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/UVA/Uva913/C/cmake-build-debug
+-- Build files have been written to: F:/github/uva/Uva913/C/cmake-build-debug

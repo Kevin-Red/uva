@@ -1,3 +1,3 @@
-D:/UVA/Uva913/C/cmake-build-debug/CMakeFiles/Uva.dir
-D:/UVA/Uva913/C/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/UVA/Uva913/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+F:/github/uva/Uva913/C/cmake-build-debug/CMakeFiles/Uva.dir
+F:/github/uva/Uva913/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/github/uva/Uva913/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
