@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/github/uva/Uva353/C/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cstdio
+-
+cstring
+-
+set
+-
+

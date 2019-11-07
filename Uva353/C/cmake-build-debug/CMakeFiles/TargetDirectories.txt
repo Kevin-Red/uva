@@ -1,0 +1,3 @@
+F:/github/uva/Uva353/C/cmake-build-debug/CMakeFiles/Uva.dir
+F:/github/uva/Uva353/C/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/github/uva/Uva353/C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
