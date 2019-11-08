@@ -11,6 +11,22 @@ int main(){
 	long start,finish;
    	double totaltime;
    	start=clock();
+
+   	char c;
+   	bool isBegin = false;
+   	while(~scanf("%c", &c)){
+   	    if(c == '"'){
+   	        if(!isBegin){
+                cout << "``";
+                isBegin = true;
+   	        }else{
+                cout << "''";
+                isBegin = false;
+   	        }
+   	    }else{
+   	        cout << c;
+   	    }
+   	}
 	
 	finish=clock();
   	totaltime=(double)(finish-start)/CLOCKS_PER_SEC;
