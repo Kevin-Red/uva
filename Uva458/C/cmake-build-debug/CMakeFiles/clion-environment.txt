@@ -1,0 +1,4 @@
+ToolSet: w64 3.0 (local)@C:\software\CLion\MinGW64
+Options: 
+
+Options:
