@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/github/uva/Uva476/C/main.cpp
+iostream
+-
+algorithm
+-
+string
+-
+ctime
+-
+cstdio
+-
+
