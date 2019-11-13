@@ -8,8 +8,10 @@ class Main{
 			String name = f.getName();
 			File C = new File(f.getAbsolutePath() + "\\C____" + name);
 			File J = new File(f.getAbsolutePath() + "\\JAVA____" + name);
-			deleteFile(C, true);
-			deleteFile(J, true);
+			copyFolder(new File("F:\\java"), J);
+			copyFolder(new File("F:\\c"), C);
+//			deleteFile(C, true);
+//			deleteFile(J, true);
 		}
 	}
 
@@ -36,24 +38,18 @@ class Main{
 	 * 复制文件夹
 	 *
 	 */
-	public static void copyFolder(File resourceFile, File targetFile ){
+	public static void copyFolder(File resourceFile, File targetFile){
+
 
 
 		// 获取源文件夹下的文件夹或文件
 		File[] resourceFiles = resourceFile.listFiles();
 		for (File file : resourceFiles) {
-			File file1 = new File(targetFile.getAbsolutePath() + File.separator + resourceFile.getName());
 			if (file.isFile()) {
-				System.out.println("文件" + file.getName());
-				if (!file1.exists()) {
-					file1.mkdirs();
-				}
-				File targetFile1 = new File(file1.getAbsolutePath() + File.separator + file.getName());
-				copyFile(file, targetFile1);
-			}
-			// 复制文件夹
-			if (file.isDirectory()) {// 复制源文件夹
-				copyFolder(file, file1);
+				copyFile(file, new File(targetFile.getAbsolutePath() + "\\" + file.getName()));
+			}else if (file.isDirectory()) {// 复制源文件夹
+				new File(targetFile.getAbsolutePath() + "\\" + file.getName()).mkdirs();
+				copyFolder(file, new File(targetFile.getAbsolutePath() + "\\" + file.getName()));
 			}
 		}
 

@@ -9,7 +9,7 @@ class Main{
 		File[] list = new File("F:\\UVA").listFiles();
 		for(File l : list){
 			String name = l.getName();
-			if(!name.contains(" ")){
+			if(!name.contains(" ") || name.contains("null")){
 				System.out.println(name + "----命名错误");
 			}
 
