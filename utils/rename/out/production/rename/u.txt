@@ -1,0 +1,6 @@
+Uva10353----Circles in Hexagon :-)
+Uva10446----The Marriage Interview :-)
+Uva11097----Poor My Problem! :-(
+Uva12345----Dynamic len(set(a[L:R]))
+Uva12578----10:6:2
+Uva13034----Solve Everything :-)
