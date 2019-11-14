@@ -1,6 +1,6 @@
 @echo off
 set /p n=
-md D:\UVA\Uva%n%
-xcopy /E D:\UVA\Uva%n% F:\github\uva\Uva%n%
-rd /s/q D:\UVA\Uva%n%
+md D:\UVA\%n%
+xcopy /E F:\UVA\%n% D:\UVA\%n%
+rd /s/q F:\UVA\%n%
 pause
