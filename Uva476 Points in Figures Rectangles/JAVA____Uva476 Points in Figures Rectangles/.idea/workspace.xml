@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17aa600a-c0e9-45ba-b8a5-50eee506f16f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/Uva100.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/date.in" beforeDir="false" afterPath="$PROJECT_DIR$/../../Uva100/JAVA/date.in" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/Uva100.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/date.in" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Uva100/JAVA/out/production/Uva100/date.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/C.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdC/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/3.14.5/CompilerIdCXX/a.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/main.cpp.obj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/Uva.dir/objects.a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/CMakeFiles/feature_tests.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/Uva.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/Uva.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../C/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../C/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../C/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/date.in" beforeDir="false" afterPath="$PROJECT_DIR$/date.in" afterDir="false" />
-    </list>
+    <list default="true" id="fcdd43a6-ed44-4404-8001-865fb1943d32" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +9,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
   </component>
-  <component name="ProjectId" id="1TUo9S2JmrEupKiSrc8kftmxcb5" />
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\github\uva\Uva272 TeX Quotes\JAVA____Uva272 TeX Quotes\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TY6eoeFY4HQTJXh2PatxwChZx9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\github\uva\Uva272 TeX Quotes\JAVA____Uva272 TeX Quotes\src" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -70,17 +48,33 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="17aa600a-c0e9-45ba-b8a5-50eee506f16f" name="Default Changelist" comment="" />
-      <created>1573523884302</created>
+      <changelist id="fcdd43a6-ed44-4404-8001-865fb1943d32" name="Default Changelist" comment="" />
+      <created>1573624779923</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1573523884302</updated>
-      <workItem from="1573523886936" duration="52000" />
+      <updated>1573624779923</updated>
+      <workItem from="1573624783061" duration="42000" />
+      <workItem from="1573624906952" duration="376000" />
+      <workItem from="1573625560485" duration="50000" />
     </task>
     <servers />
   </component>
@@ -92,7 +86,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

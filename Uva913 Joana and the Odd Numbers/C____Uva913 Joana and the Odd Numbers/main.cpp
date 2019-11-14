@@ -20,7 +20,7 @@ int main() {
     }
     finish = clock();
     totaltime = (double) (finish - start) / CLOCKS_PER_SEC;
-    printf("\n´Ë³ÌĞòµÄÔËĞĞÊ±¼äÎª%.2fÃë", totaltime);
+    printf("\næ­¤ç¨‹åºçš„è¿è¡Œæ—¶é—´ä¸º%.2fç§’", totaltime);
     return 0;
 }
 
