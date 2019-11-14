@@ -22,4 +22,3 @@ git commit -m "%date:~0,10% %time:~0,8%"
 git push origin master
 echo:
 echo:
-pause

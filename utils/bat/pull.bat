@@ -18,4 +18,3 @@ cd UVA
 git pull
 echo:
 echo:
-pause
