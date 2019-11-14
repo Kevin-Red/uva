@@ -1,3 +1,0 @@
-C:\software\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\Uva.dir/objects.a
-C:\software\CLion\MinGW64\bin\ar.exe cr CMakeFiles\Uva.dir/objects.a @CMakeFiles\Uva.dir\objects1.rsp
-C:\software\CLion\MinGW64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Uva.dir/objects.a -Wl,--no-whole-archive  -o Uva.exe -Wl,--out-implib,libUva.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Uva.dir\linklibs.rsp
